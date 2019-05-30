@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "André Silva Maróstica Webpage"
 navbar:
-  title: "MyLabJournal"
+  title: "André Silva Maróstica Webpages"
   left:
     - text: "Home"
       href: index.html
