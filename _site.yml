@@ -1,10 +1,10 @@
 name: "André Silva Maróstica Webpage"
 navbar:
-  title: "André Silva Maróstica Webpages"
+  title: "André's website"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Contact"
       href: Journal.html
     - text: "Links"
       href: Links.html
