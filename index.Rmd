@@ -35,9 +35,8 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### [Laboratory of Evolutionary Genetics](http://www.ib.usp.br/genevol/)
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+![](images/me.jpg)
 </a>
 </div>
